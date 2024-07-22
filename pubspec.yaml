@@ -1,0 +1,80 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.9
+  google_fonts: ^6.2.1
+  flutter_rating_bar: ^4.0.1
+  http: ^1.2.1
+  shared_preferences: ^2.2.3
+  image_picker: ^1.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/KKN.png
+    - assets/images/applogo.png
+    - assets/images/gambar1.png
+    - assets/images/image_1.png
+    - assets/images/baca_buku_5.png
+    - assets/images/best_booksfor_sql_1.png
+    - assets/images/dilan.jpeg
+    - assets/images/kkn_1.jpeg
+    - assets/images/applogo.png
+    - assets/vectors/vector_24_x2.svg
+    - assets/vectors/vector_27_x2.svg
+    - assets/vectors/vector_35_x2.svg
+    - assets/vectors/image_3_x2.svg
+    - assets/vectors/vector_5_x2.svg
+    - assets/vectors/vector_14_x2.svg
+    - assets/vectors/vector_15_x2.svg
+    - assets/vectors/vector_23_x2.svg
+    - assets/vectors/vector_3_x2.svg
+    - assets/vectors/vector_11_x2.svg
+    - assets/vectors/vector_10_x2.svg
+    - assets/vectors/vector_6_x2.svg
+    - assets/vectors/vector_2_x2.svg
+    - assets/vectors/ghost_x2.svg
+    - assets/vectors/vector_18_x2.svg
+    - assets/vectors/coding_x2.svg
+    - assets/vectors/vector_32_x2.svg
+    - assets/vectors/vector_26_x2.svg
+    - assets/vectors/vector_4_x2.svg
+    - assets/vectors/search_x2.svg
+    - assets/vectors/group_x2.svg
+    - assets/vectors/vector_19_x2.svg
+    - assets/vectors/vector_34_x2.svg
+    - assets/vectors/vector_16_x2.svg
+    - assets/vectors/vector_28_x2.svg
+    - assets/vectors/vector_33_x2.svg
+    - assets/vectors/group_1_x2.svg
+    - assets/vectors/image_2_x2.svg
+    - assets/vectors/fav_x2.svg
+    - assets/vectors/vector_30_x2.svg
+    - assets/vectors/vector_31_x2.svg
+    - assets/vectors/vector_1_x2.svg
+    - assets/vectors/vector_22_x2.svg
+    - assets/vectors/vector_21_x2.svg
+    - assets/vectors/vector_12_x2.svg
+    - assets/vectors/vector_8_x2.svg
+    - assets/vectors/vector_9_x2.svg
+    - assets/vectors/vector_20_x2.svg
+    - assets/vectors/vector_x2.svg
+    - assets/vectors/vector_13_x2.svg
+    - assets/vectors/vector_29_x2.svg
+    - assets/vectors/vector_25_x2.svg
+    - assets/vectors/vector_7_x2.svg
+    - assets/vectors/vector_17_x2.svg
